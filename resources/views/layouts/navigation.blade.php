@@ -19,7 +19,7 @@
         </svg>
         <span class="font-doodle text-xl">blokstart</span>
     </a>
-</div> This program is released for the 2017-18 season.
+</div>
 
                 <!-- Navigation Links -->
                 <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
