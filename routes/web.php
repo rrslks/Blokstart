@@ -23,4 +23,8 @@ Route::resource('projects', ProjectController::class)
 Route::get('/projects/{project}', [ProjectController::class, 'show'])
     ->name('projects.show');
 
+Route::get('/about', function () {
+    return view('about');
+})->name('about');
+
 require __DIR__.'/auth.php';
